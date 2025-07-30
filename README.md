@@ -38,20 +38,6 @@ This project analyzes Blinkit's sales data to extract business insights related 
 ## 📷 Dashboard Preview
 ![Overview](Screenshot%20(448).png)
 
-#### 📈 Sales Overview
-![Sales Overview](images/Screenshot%20(449).png)
-
-#### 🌍 Regional Performance
-![Regional Performance](images/Screenshot%20(450).png)
-
-#### 🧑‍🤝‍🧑 Customer Insights
-![Customer Insights](images/Screenshot%20(451).png)
-
-#### 📦 Product-Level Trends
-![Product-Level Trends](images/Screenshot%20(452).png)
-
-#### 🗓️ Time-Based Analysis
-![Time-Based Analysis](images/Screenshot%20(453).png)
 
 ## 📄 Data Source
 Sample data modeled on sales from a retail business environment. *(Synthetic/Non-confidential)*
