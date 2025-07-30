@@ -44,7 +44,5 @@ Sample data modeled on sales from a retail business environment. *(Synthetic/Non
 
 ---
 
-## ✅ 2. **LinkedIn Tagline**
-> 🔍 Built a complete Power BI dashboard analyzing Blinkit's sales KPIs & trends using DAX, visuals & insights from raw data to story.
 
 
