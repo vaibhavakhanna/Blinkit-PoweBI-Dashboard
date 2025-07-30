@@ -36,6 +36,7 @@ This project analyzes Blinkit's sales data to extract business insights related 
 - `README.md`
 
 ## 📷 Dashboard Preview
+![Overview](Screenshot%20(448).png)
 
 
 ## 📄 Data Source
